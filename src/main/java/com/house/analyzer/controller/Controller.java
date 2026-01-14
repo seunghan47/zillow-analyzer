@@ -1,6 +1,7 @@
 package com.house.analyzer.controller;
 
 
+import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -14,6 +15,10 @@ public class Controller {
 
     @PostMapping("/item")
     public void postItem() {
+
+    }
+    @DeleteMapping("/delete")
+    public String deleteItem() {
 
     }
 }
