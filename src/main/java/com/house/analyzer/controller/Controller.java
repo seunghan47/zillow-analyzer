@@ -19,7 +19,7 @@ public class Controller {
     }
     @DeleteMapping("/delete")
     public String deleteItem() {
-
+        return "delete";
     }
     // fake update: (
 }
