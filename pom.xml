@@ -9,11 +9,11 @@
 		<relativePath/> <!-- lookup parent from repository -->
 
 	</parent>
-	<groupId>com.house</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.pilates</groupId>
+	<artifactId>pilates studio</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>House Analyzer</name>
-	<description>house analyzer</description>
+	<name>Pilates Studio</name>
+	<description>Pilates Studio</description>
 	<url/>
 	<licenses>
 		<license/>
